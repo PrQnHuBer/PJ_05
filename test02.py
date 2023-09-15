@@ -8,7 +8,7 @@ def func1 () :
 
 def func2 (x) :
  return
- print(f'x is {x}')
+ print(f'X is {x}')
 
 func1()
-func2()
+func2(10)
